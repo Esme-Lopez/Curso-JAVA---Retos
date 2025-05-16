@@ -1,0 +1,20 @@
+INFO - Comenzando pruebas del sistema de inventario
+INFO - Conexión establecida con la base de datos
+WARNING - Latencia de red detectada: 250ms
+INFO - Prueba: carga de productos finalizada con éxito
+ERROR - ID de producto duplicado en línea 45
+INFO - Inicio de validación de stock
+WARNING - Stock negativo en producto ID 1023
+INFO - Prueba de actualización de inventario completada
+ERROR - Excepción IOException al leer archivo de datos
+INFO - Inicio de pruebas del módulo de facturación
+INFO - Validación de campos obligatorios exitosa
+WARNING - Formato de fecha incorrecto en entrada de usuario
+ERROR - Cálculo incorrecto de impuesto en factura 5001
+INFO - Envío de facturas simulado correctamente
+INFO - Pruebas finalizadas: módulo de facturación
+INFO - Comenzando pruebas del módulo de envío
+INFO - Generación de etiquetas de envío exitosa
+ERROR - No se pudo conectar con la API de rastreo
+WARNING - Tiempo de respuesta de API excedido: 3.2s
+INFO - Simulación de seguimiento de paquete finalizada

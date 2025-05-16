@@ -1,0 +1,1 @@
+Se produjo un error al leer el archivo 'errores.log': C:\Users\esmed\IdeaProjects\Sesión 7\Reto02\errores.log
