@@ -1,4 +1,4 @@
-# ☕🐾 Curso_JAVA_Retos — Tecnolochicas 💻✨
+# ☕🐾 Curso JAVA Tecnolochicas 💻✨
 
 
 > ✨ ¡Bienvenida a mi colección de retos Java! ✨  
